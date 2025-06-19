@@ -1,3 +1,67 @@
 React Best practises links:- 
 
 https://github.com/AnwarHossainSR/react-boilerplate
+
+
+
+𝗦𝘁𝗲𝗽 𝟭: 𝗥𝗲𝗮𝗰𝘁 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
+Virtual DOM & Diffing Algorithm
+Components & JSX
+State vs Props
+Class vs Functional Components
+React Fragment & Keys
+
+𝗦𝘁𝗲𝗽 𝟮: 𝗔𝗹𝗹 𝗥𝗲𝗮𝗰𝘁 𝗛𝗼𝗼𝗸𝘀
+useState & useEffect (with cleanup)
+useContext & Context API
+useRef & useImperativeHandle
+useMemo & useCallback
+useReducer & Custom Hooks
+
+𝗦𝘁𝗲𝗽 𝟯: 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗥𝗲𝗮𝗰𝘁 𝗣𝗮𝘁𝘁𝗲𝗿𝗻𝘀
+Higher Order Components (HOC)
+Render Props Pattern
+Compound Components
+Controlled vs Uncontrolled Components
+Error Boundaries
+
+𝗦𝘁𝗲𝗽 𝟰: 𝗦𝘁𝗮𝘁𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+Redux & Redux Toolkit
+Context API vs Redux
+Middleware (Redux Thunk/Saga)
+State Management Best Practices
+Local vs Global State
+
+𝗦𝘁𝗲𝗽 𝟱: 𝗥𝗼𝘂𝘁𝗶𝗻𝗴 & 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻
+React Router (v6)
+Protected Routes
+Programmatic Navigation
+Nested Routes
+Route Parameters & Query Strings
+
+𝗦𝘁𝗲𝗽 𝟲: 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
+React.memo & PureComponent
+Code Splitting & Lazy Loading
+Optimizing Re-renders
+Bundle Analysis
+Memory Leak Prevention
+
+𝗦𝘁𝗲𝗽 𝟳: 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗖𝗼𝗱𝗶𝗻𝗴 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+Build Todo App with Hooks
+Create Custom Hooks (useDebounce, useFetch)
+Implement Infinite Scrolling
+Build Dark/Light Mode Toggle
+Shopping Cart Implementation
+
+𝗧𝗼𝗽 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀:
+
+- What is Virtual DOM and how it works?
+- Difference between Class and Functional Components
+- Explain useEffect cleanup function
+- When to use useMemo vs useCallback?
+- How does Context API work internally?
+- What are React Portals?
+- Difference between Controlled vs Uncontrolled components
+- How to prevent unnecessary re-renders?
+- What is React Fiber?
+- Explain React's reconciliation process
